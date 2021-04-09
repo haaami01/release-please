@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+## [11.8.0](https://www.github.com/googleapis/release-please/compare/v11.7.0...v11.8.0) (2021-04-09)
+
+
+### Features
+
+* **manifest:** node workspace package dependency updates ([#844](https://www.github.com/googleapis/release-please/issues/844)) ([9ebd422](https://www.github.com/googleapis/release-please/commit/9ebd422b6abd0d49e6d3d740d33bf1bbd58ec6a4))
+
 ## [11.7.0](https://www.github.com/googleapis/release-please/compare/v11.6.0...v11.7.0) (2021-04-09)
 
 
